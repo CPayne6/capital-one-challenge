@@ -1,0 +1,14 @@
+{
+  "name": "capitalone-assesment",
+  "version": "1.0.0",
+  "description": "A program that outputs information about the files in the check in directory.",
+  "main": "fileAnalyzer.js",
+  "scripts": {
+    "test": "node fileAnalyzer.js"
+  },
+  "author": "Chris Payne",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
